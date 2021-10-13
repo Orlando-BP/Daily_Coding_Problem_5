@@ -1,0 +1,14 @@
+D:\Programas diarios\Daily_Coding_Problem_5\bin\Debug\netcoreapp3.1\Daily_Coding_Problem_5.exe
+D:\Programas diarios\Daily_Coding_Problem_5\bin\Debug\netcoreapp3.1\Daily_Coding_Problem_5.deps.json
+D:\Programas diarios\Daily_Coding_Problem_5\bin\Debug\netcoreapp3.1\Daily_Coding_Problem_5.runtimeconfig.json
+D:\Programas diarios\Daily_Coding_Problem_5\bin\Debug\netcoreapp3.1\Daily_Coding_Problem_5.runtimeconfig.dev.json
+D:\Programas diarios\Daily_Coding_Problem_5\bin\Debug\netcoreapp3.1\Daily_Coding_Problem_5.dll
+D:\Programas diarios\Daily_Coding_Problem_5\bin\Debug\netcoreapp3.1\Daily_Coding_Problem_5.pdb
+D:\Programas diarios\Daily_Coding_Problem_5\obj\Debug\netcoreapp3.1\Daily_Coding_Problem_5.csprojAssemblyReference.cache
+D:\Programas diarios\Daily_Coding_Problem_5\obj\Debug\netcoreapp3.1\Daily_Coding_Problem_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas diarios\Daily_Coding_Problem_5\obj\Debug\netcoreapp3.1\Daily_Coding_Problem_5.AssemblyInfoInputs.cache
+D:\Programas diarios\Daily_Coding_Problem_5\obj\Debug\netcoreapp3.1\Daily_Coding_Problem_5.AssemblyInfo.cs
+D:\Programas diarios\Daily_Coding_Problem_5\obj\Debug\netcoreapp3.1\Daily_Coding_Problem_5.csproj.CoreCompileInputs.cache
+D:\Programas diarios\Daily_Coding_Problem_5\obj\Debug\netcoreapp3.1\Daily_Coding_Problem_5.dll
+D:\Programas diarios\Daily_Coding_Problem_5\obj\Debug\netcoreapp3.1\Daily_Coding_Problem_5.pdb
+D:\Programas diarios\Daily_Coding_Problem_5\obj\Debug\netcoreapp3.1\Daily_Coding_Problem_5.genruntimeconfig.cache
